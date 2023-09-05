@@ -1,2 +1,2 @@
-# stage_model_l1
-Vous trouverez dans ce git l'entièreté des codes qui nous ont servis dans l'établissement de nos modèles. 
+# Effet Allee, l'impact sur une population
+Dans cette branche, vous trouverez tous les programmes qui nous ont servis à modéliser l'effet Allee sur une population. 
